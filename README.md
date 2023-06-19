@@ -1,2 +1,3 @@
 # coinscrap
-[link](https://c0in-s1ji.onrender.com/)
+### C0in
+[C0in Site Link](https://c0in-s1ji.onrender.com/)

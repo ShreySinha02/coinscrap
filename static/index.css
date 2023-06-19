@@ -1,0 +1,43 @@
+body{
+    margin: auto;
+
+    
+}
+.head{
+    color: rgb(233, 233, 234);
+    font-size: x-large;
+    text-align: center;
+    margin-top: 1rem;
+    margin-bottom: -10px;
+}
+.center{
+    margin: 1.5rem auto;
+    width: 60%;
+    display: flex;
+    flex-wrap:wrap;
+    justify-content: space-evenly;
+    background-color: #252525;
+    
+  }
+.card {
+    display: inline;
+    margin: 1.5rem;
+    text-align: center;
+    transition: .3s transform cubic-bezier(.155,1.105,.295,1.12),.3s box-shadow,.3s -webkit-transform cubic-bezier(.155,1.105,.295,1.12);
+
+
+}
+.card:hover{
+    transform: scale(1.05);
+ box-shadow: 0 10px 20px rgba(0,0,0,.12), 0 4px 8px rgba(0,0,0,.06);
+}
+.btn{
+    color: #17223B;
+}
+
+.navbar{
+ background-color: #d01818;
+ position: fixed;
+ top: 0;
+ width: 100%;
+}
